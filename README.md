@@ -17,3 +17,5 @@ Researched micro-controllers and parts to compare. Finalized research and develo
 - ECCS Department, May 4, 2009
   * Selected to Represent ECCS to the Advisory Board
 - College of Engineering Advisory Board: May 8, 2009
+
+Final Report can be found in the following file: /final_paper.pdf
