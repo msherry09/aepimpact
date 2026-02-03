@@ -1,6 +1,8 @@
 # Equipment Impact Detector - Senior Design Team Project
 
 **Sponsor**: American Electric Power
+**Project Timeline**: September 2008 - May 2009
+
 A year-long team-oriented project to develop device that detects impacts (possible damage) on shipped materials and store to memory card information regarding impact strength, date, time, and location. Memory card is physically removed at destination and loaded to computer displaying stored data.
 
 Researched micro-controllers and parts to compare. Finalized research and developed device design. When device was implemented, tests were made to insured the functions of micro-controller were executed as coded. Software was created for the user to able to display data from memory card.
